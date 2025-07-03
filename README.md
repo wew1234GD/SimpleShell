@@ -1,5 +1,3 @@
-# SimpleShell
-
 # The MIT License (MIT)
 Copyright © 2025 wew1234GD (a.k.a. Candy)
 
